@@ -21,3 +21,5 @@ git push origin master
 code
 print("Hello World)
 ```
+
+안녕 나는 민균이라고 해
